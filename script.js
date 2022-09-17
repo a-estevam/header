@@ -1,7 +1,7 @@
 //menuMobile//
 
-const hamburger = document.querySelector(".hamburger");
-const navmenu = document.querySelector(".nav-menu");
+var hamburger = document.querySelector(".hamburger");
+var navmenu = document.querySelector(".nav-menu");
 
 hamburger.addEventListener("click", () => {
     hamburger.classList.toggle("active");

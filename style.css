@@ -41,7 +41,10 @@ a{
 }
 
 .nav-link:hover{
-    color: chocolate;
+    padding: 10px;
+    align-items: center;
+    background-color: chocolate;
+    color: rgb(255, 255, 255);
 }
 
 .hamburger{
